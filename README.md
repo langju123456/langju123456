@@ -22,11 +22,7 @@
 ---
 
 ### 💻 Coding Activity (WakaTime)
-<p align="center">
-  <img src="https://wakatime.com/share/@langju/ca70d894-0f57-4329-9fce-801782210476.svg" height="300" />
-</p>
 
----
 
 ### 📫 Connect
 <p align="center">
