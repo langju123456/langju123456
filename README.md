@@ -21,13 +21,6 @@
 
 ---
 
-### ⚙️ GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=langju&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
----
-
 ### 💻 Coding Activity (WakaTime)
 <p align="center">
   <img src="https://wakatime.com/share/@langju/ca70d894-0f57-4329-9fce-801782210476.svg" height="300" />
