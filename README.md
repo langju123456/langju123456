@@ -17,7 +17,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | [**enterprise-ai-agent-framework**](https://github.com/langju/enterprise-ai-agent-framework) | Enterprise GenAI skeleton: Agent (LangChain) + Pipeline + Docker/K8s security, ready for private data/RAG and hybrid local-cloud inference. | LangChain · FastAPI · Ollama/vLLM · Docker/K8s · Vector DB |
-| [**AI-Research-Assistant-LangJu-Edition**](https://github.com/langju/AI-Research-Assistant-LangJu-Edition) | Local + cloud hybrid research agent (Qwen2 & GPT-4) with RAG document retrieval, tool use (web search/calculator/summarizer), and Streamlit UI. | Qwen2 · OpenAI API · RAG · Streamlit · Tool Use |
+| [**AI-Research-Assistant-LangJu-Edition**](https://github.com/langju123456/AI-Research-Assistant-LangJu-Edition) | Local + cloud hybrid research agent (Qwen2 & GPT-4) with RAG document retrieval, tool use (web search/calculator/summarizer), and Streamlit UI. | Qwen2 · OpenAI API · RAG · Streamlit · Tool Use |
 
 ---
 
