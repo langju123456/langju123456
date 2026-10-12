@@ -20,7 +20,7 @@ These are AI-assisted personal projects. I contribute the scenarios, requirement
 
 | Project | Access and current stage | What it explores | Links |
 | --- | --- | --- | --- |
-| **SoloScale AI OS** | Public · Active local product | Engineering evidence, retrieval, structured drafts, workflow state, and human review | [Code](https://github.com/langju123456/soloscale-ai-os) · [Overview](https://langhorizontech.com/en/products/soloscale/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) · [Showcase](https://soloscale-showcase.vercel.app/showcase/soloscale-hero-demo-v1) |
+| **SoloScale AI OS** | Public · Local engineering prototype; retrieval reused in Research Chain | Engineering evidence, retrieval, structured drafts, workflow state, and human review | [Code](https://github.com/langju123456/soloscale-ai-os) · [Overview](https://langhorizontech.com/en/products/soloscale/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) · [Showcase](https://soloscale-showcase.vercel.app/showcase/soloscale-hero-demo-v1) |
 | **EvidenceLoop** | Public · Evaluation and data tooling implemented; formal training experiments pending | Independent outcome verification, real-model calibration, frozen baselines, error attribution, and traceable SFT data | [Code](https://github.com/langju123456/evidenceloop) · [Reports](https://github.com/langju123456/evidenceloop/tree/main/reports) · [Overview](https://langhorizontech.com/en/products/evidenceloop/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) |
 | **BuildLog** | Public · Working internal prototype; hosted validation pending | Evidence → plan → draft → evaluation → bounded revision → reviewable publishing package | [Code](https://github.com/langju123456/BuildLog) · [Overview](https://langhorizontech.com/en/products/buildlog/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) |
 | **ForgeFlow** | Private · Local runtime prototype with synthetic workflows | Restricted execution, MCP, sandbox attempts, stage-gate evidence, and approval boundaries | [Overview](https://langhorizontech.com/en/products/forgeflow/?utm_source=github&utm_medium=profile&utm_campaign=portfolio) |
@@ -43,7 +43,7 @@ Successful and failed runs are preserved in an offline interactive viewer. The c
 | [AI Research Assistant — LangJu Edition](https://github.com/langju123456/AI-Research-Assistant-LangJu-Edition) | Earlier RAG learning prototype with local/cloud backends and a Streamlit interface |
 | [AI Job Search Copilot](https://github.com/langju123456/ai-job-search-copilot) | Earlier local Streamlit MVP for job analysis, draft preparation, and tracking |
 | [Enterprise RAG architecture prototype](https://github.com/langju123456/Enterprise-AI-Agent-Framework-RAG-based-AI-Agent-) | Earlier architecture exploration; Databricks/Bedrock integrations are stubbed |
-| [solo-scale-ai-os](https://github.com/langju123456/solo-scale-ai-os) | Archived historical snapshot; current development is in **soloscale-ai-os** above |
+| [solo-scale-ai-os](https://github.com/langju123456/solo-scale-ai-os) | Archived historical snapshot; newer implementation linked above |
 
 <details>
 <summary>Learning repositories and upstream forks</summary>
